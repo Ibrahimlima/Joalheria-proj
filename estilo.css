@@ -91,12 +91,12 @@ header{
     justify-content: space-between;
     flex-wrap: wrap;
     box-sizing: border-box;
-    background-color: white
+    background-color: rgb(48, 40, 40)
 }
 
-.box{
-    width: calc(40% - 40px);
-    margin: 30px;
+.card{
+    width: calc(50% - 50px);
+    margin-bottom: 100px;
 }
 
 .box img{
