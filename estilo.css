@@ -80,7 +80,7 @@ header{
     text-align: center;
     display: flex;
     justify-content: center;
-    padding: 100px 20px;
+    padding: 60px 20px;
     background-color: #f6f6f6;
 
 }
@@ -128,16 +128,16 @@ header{
     width: 100%;
     background-color: #837473;
     text-align: center;
-    padding: 100px 20px;
+    padding: 50px 20px;
 }
 
 .container-contato{
     width: 100%;
-    text-align: center;
     color: #fff;
     margin-top: 45px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
 }
 
 .box{
@@ -159,4 +159,9 @@ header{
 .box figcaption{
     font-size: 14px;
     margin-left: 10px;
+}
+
+footer{
+    text-align: center;
+    background-color: #a4a49e;
 }
