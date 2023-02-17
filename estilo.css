@@ -134,7 +134,7 @@ header{
 .container-contato{
     width: 100%;
     color: #fff;
-    margin-top: 45px;
+    margin: 45px auto;
     display: flex;
     justify-content: center;
     align-items: center;
